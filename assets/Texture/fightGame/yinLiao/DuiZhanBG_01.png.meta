@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "65cd7a9a-5f3c-41fd-8d3f-621bc282f693",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 797,
+  "height": 460,
+  "platformSettings": {},
+  "subMetas": {
+    "DuiZhanBG_01": {
+      "ver": "1.0.4",
+      "uuid": "89d12753-5c3c-415b-b329-a0a576e0b989",
+      "rawTextureUuid": "65cd7a9a-5f3c-41fd-8d3f-621bc282f693",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 797,
+      "height": 460,
+      "rawWidth": 797,
+      "rawHeight": 460,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

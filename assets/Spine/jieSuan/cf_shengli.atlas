@@ -1,0 +1,48 @@
+
+cf_shengli.png
+size: 465,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaodai1
+  rotate: false
+  xy: 2, 166
+  size: 446, 129
+  orig: 446, 129
+  offset: 0, 0
+  index: -1
+maisui1
+  rotate: false
+  xy: 219, 58
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+maisui2
+  rotate: false
+  xy: 301, 60
+  size: 77, 104
+  orig: 80, 106
+  offset: 1, 1
+  index: -1
+maozi1
+  rotate: false
+  xy: 2, 4
+  size: 215, 160
+  orig: 219, 162
+  offset: 1, 1
+  index: -1
+shenglizi
+  rotate: false
+  xy: 219, 2
+  size: 102, 54
+  orig: 104, 56
+  offset: 1, 1
+  index: -1
+xx
+  rotate: true
+  xy: 380, 79
+  size: 85, 83
+  orig: 104, 88
+  offset: 10, 4
+  index: -1

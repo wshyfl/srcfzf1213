@@ -1,0 +1,41 @@
+
+cf_shibai.png
+size: 847,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaodai2
+  rotate: false
+  xy: 2, 6
+  size: 446, 129
+  orig: 446, 129
+  offset: 0, 0
+  index: -1
+sb_maozi1
+  rotate: true
+  xy: 450, 26
+  size: 109, 160
+  orig: 111, 162
+  offset: 1, 1
+  index: -1
+sb_maozi2
+  rotate: false
+  xy: 703, 2
+  size: 87, 133
+  orig: 89, 139
+  offset: 1, 2
+  index: -1
+sb_maozi3
+  rotate: false
+  xy: 612, 3
+  size: 89, 132
+  orig: 93, 136
+  offset: 1, 1
+  index: -1
+shibaizi
+  rotate: true
+  xy: 792, 32
+  size: 103, 53
+  orig: 105, 55
+  offset: 1, 1
+  index: -1

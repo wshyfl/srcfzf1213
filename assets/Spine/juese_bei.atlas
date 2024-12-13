@@ -1,0 +1,188 @@
+
+juese_bei.png
+size: 892,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_shenti1
+  rotate: false
+  xy: 687, 554
+  size: 151, 214
+  orig: 151, 214
+  offset: 0, 0
+  index: -1
+b_shenti2
+  rotate: false
+  xy: 525, 210
+  size: 209, 217
+  orig: 209, 217
+  offset: 0, 0
+  index: -1
+b_shenti3
+  rotate: false
+  xy: 483, 472
+  size: 202, 296
+  orig: 202, 296
+  offset: 0, 0
+  index: -1
+b_shenti4
+  rotate: false
+  xy: 2, 414
+  size: 238, 354
+  orig: 238, 354
+  offset: 0, 0
+  index: -1
+b_shenti5
+  rotate: false
+  xy: 2, 115
+  size: 269, 297
+  orig: 269, 297
+  offset: 0, 0
+  index: -1
+b_shenti6
+  rotate: false
+  xy: 273, 142
+  size: 250, 280
+  orig: 250, 280
+  offset: 0, 0
+  index: -1
+b_shenti7
+  rotate: false
+  xy: 242, 446
+  size: 239, 322
+  orig: 239, 322
+  offset: 0, 0
+  index: -1
+b_yb1
+  rotate: true
+  xy: 242, 424
+  size: 20, 56
+  orig: 22, 58
+  offset: 1, 1
+  index: -1
+b_yb2
+  rotate: false
+  xy: 585, 437
+  size: 53, 33
+  orig: 55, 35
+  offset: 1, 1
+  index: -1
+b_ys
+  rotate: true
+  xy: 840, 707
+  size: 61, 49
+  orig: 64, 51
+  offset: 2, 1
+  index: -1
+b_zb1
+  rotate: true
+  xy: 532, 435
+  size: 35, 51
+  orig: 37, 53
+  offset: 1, 1
+  index: -1
+b_zb2
+  rotate: false
+  xy: 483, 429
+  size: 47, 41
+  orig: 49, 43
+  offset: 1, 1
+  index: -1
+b_zs
+  rotate: false
+  xy: 831, 499
+  size: 59, 53
+  orig: 61, 55
+  offset: 1, 1
+  index: -1
+maozi1
+  rotate: false
+  xy: 736, 248
+  size: 140, 88
+  orig: 142, 90
+  offset: 1, 1
+  index: -1
+maozi2
+  rotate: false
+  xy: 750, 163
+  size: 111, 83
+  orig: 113, 85
+  offset: 1, 1
+  index: -1
+maozi3
+  rotate: false
+  xy: 2, 2
+  size: 176, 111
+  orig: 178, 113
+  offset: 1, 1
+  index: -1
+maozi4
+  rotate: false
+  xy: 687, 464
+  size: 142, 88
+  orig: 144, 90
+  offset: 1, 1
+  index: -1
+maozi5
+  rotate: false
+  xy: 180, 2
+  size: 176, 111
+  orig: 178, 113
+  offset: 1, 1
+  index: -1
+maozi6
+  rotate: false
+  xy: 696, 33
+  size: 171, 111
+  orig: 173, 113
+  offset: 1, 1
+  index: -1
+maozi7
+  rotate: false
+  xy: 524, 27
+  size: 170, 113
+  orig: 172, 115
+  offset: 1, 1
+  index: -1
+qiecaixx
+  rotate: false
+  xy: 358, 21
+  size: 164, 119
+  orig: 164, 119
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 273, 117
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+xx2
+  rotate: false
+  xy: 640, 440
+  size: 29, 30
+  orig: 31, 32
+  offset: 1, 1
+  index: -1
+yt2
+  rotate: true
+  xy: 638, 146
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 736, 338
+  size: 133, 124
+  orig: 137, 127
+  offset: 2, 2
+  index: -1
+zt1
+  rotate: true
+  xy: 525, 146
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1

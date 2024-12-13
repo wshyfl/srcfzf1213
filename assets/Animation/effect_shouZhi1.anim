@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_shouZhi1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.625,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "zhiYin_shouZHi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                60,
+                -70,
+                0
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": [
+                32,
+                -45,
+                0
+              ]
+            },
+            {
+              "frame": 0.625,
+              "value": [
+                60,
+                -70,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "zhiYin_shouZhi_2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.5961346633416458,
+                0.15037406483790539,
+                0.9275561097256856,
+                0.8278054862842892
+              ]
+            },
+            {
+              "frame": 0.625,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.20833333333333334,
+              "value": 255,
+              "curve": [
+                0.6366583541147132,
+                0.006982543640898009,
+                0.8246882793017455,
+                0.6688279301745634
+              ]
+            },
+            {
+              "frame": 0.625,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

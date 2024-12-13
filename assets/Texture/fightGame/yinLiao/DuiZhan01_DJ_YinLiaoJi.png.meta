@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "264fe661-e405-4116-844a-88300f3ada20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 618,
+  "height": 545,
+  "platformSettings": {},
+  "subMetas": {
+    "DuiZhan01_DJ_YinLiaoJi": {
+      "ver": "1.0.4",
+      "uuid": "8446389e-504e-4151-aa9f-93c86e1661ab",
+      "rawTextureUuid": "264fe661-e405-4116-844a-88300f3ada20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 618,
+      "height": 545,
+      "rawWidth": 618,
+      "rawHeight": 545,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

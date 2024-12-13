@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "340b3d59-11b8-4f74-a7e6-36b36f3d8411",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 50,
+  "height": 163,
+  "platformSettings": {},
+  "subMetas": {
+    "DuiJue_3_ShuTiao_2": {
+      "ver": "1.0.4",
+      "uuid": "6abd8957-c910-49f5-8076-861bd3509411",
+      "rawTextureUuid": "340b3d59-11b8-4f74-a7e6-36b36f3d8411",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 163,
+      "rawWidth": 50,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

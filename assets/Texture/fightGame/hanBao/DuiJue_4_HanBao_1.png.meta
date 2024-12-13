@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "576e8013-79d0-455f-b4fc-03f479f21c6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 209,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "DuiJue_4_HanBao_1": {
+      "ver": "1.0.4",
+      "uuid": "aa907129-ef84-4286-be39-7e0634f1343e",
+      "rawTextureUuid": "576e8013-79d0-455f-b4fc-03f479f21c6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 209,
+      "height": 152,
+      "rawWidth": 209,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

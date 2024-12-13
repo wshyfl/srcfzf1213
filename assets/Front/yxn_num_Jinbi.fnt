@@ -1,0 +1,25 @@
+info face="黑体" size=24 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=3 padding=1,1,1,1 spacing=1,1 outline=0
+common lineHeight=24 base=21 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="yxn_num_Jinbi_0.png"
+chars count=21
+char id=33   x=14    y=0     width=5     height=21    xoffset=3     yoffset=1     xadvance=12    page=0  chnl=15
+char id=37   x=91    y=0     width=13    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=42   x=170   y=0     width=14    height=14    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=43   x=185   y=0     width=14    height=14    xoffset=-1    yoffset=5     xadvance=12    page=0  chnl=15
+char id=45   x=170   y=15    width=13    height=4     xoffset=-1    yoffset=10    xadvance=12    page=0  chnl=15
+char id=46   x=246   y=0     width=5     height=5     xoffset=0     yoffset=17    xadvance=12    page=0  chnl=15
+char id=47   x=0     y=0     width=13    height=21    xoffset=-1    yoffset=2     xadvance=12    page=0  chnl=15
+char id=48   x=20    y=0     width=13    height=20    xoffset=-1    yoffset=2     xadvance=12    page=0  chnl=15
+char id=49   x=161   y=0     width=8     height=19    xoffset=1     yoffset=3     xadvance=12    page=0  chnl=15
+char id=50   x=34    y=0     width=13    height=20    xoffset=-1    yoffset=2     xadvance=12    page=0  chnl=15
+char id=51   x=48    y=0     width=13    height=20    xoffset=-1    yoffset=2     xadvance=12    page=0  chnl=15
+char id=52   x=76    y=0     width=14    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=53   x=105   y=0     width=13    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=54   x=119   y=0     width=13    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=55   x=133   y=0     width=13    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=56   x=147   y=0     width=13    height=19    xoffset=-1    yoffset=3     xadvance=12    page=0  chnl=15
+char id=57   x=62    y=0     width=13    height=20    xoffset=-1    yoffset=2     xadvance=12    page=0  chnl=15
+char id=58   x=227   y=0     width=5     height=14    xoffset=3     yoffset=8     xadvance=12    page=0  chnl=15
+char id=115  x=214   y=0     width=12    height=14    xoffset=0     yoffset=8     xadvance=12    page=0  chnl=15
+char id=120  x=200   y=0     width=13    height=14    xoffset=-1    yoffset=8     xadvance=12    page=0  chnl=15
+char id=126  x=233   y=0     width=12    height=7     xoffset=0     yoffset=-1    xadvance=12    page=0  chnl=15

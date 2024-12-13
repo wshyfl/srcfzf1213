@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6fe5a5eb-2f0a-4960-981e-aff185000865",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1600,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "TaiZi_DuiKang_1_Zuo": {
+      "ver": "1.0.4",
+      "uuid": "c2eb0cfe-7d54-4691-9524-b5d1c9eba838",
+      "rawTextureUuid": "6fe5a5eb-2f0a-4960-981e-aff185000865",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -320,
+      "offsetY": -69,
+      "trimX": 160,
+      "trimY": 138,
+      "width": 640,
+      "height": 582,
+      "rawWidth": 1600,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,90 @@
+
+cf_caidai.png
+size: 356,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong_1
+  rotate: false
+  xy: 2, 74
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+hong_2
+  rotate: false
+  xy: 296, 80
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+hong_3
+  rotate: false
+  xy: 220, 38
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+huang_1
+  rotate: false
+  xy: 100, 74
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+huang_2
+  rotate: false
+  xy: 296, 20
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+huang_3
+  rotate: false
+  xy: 220, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+lan_1
+  rotate: false
+  xy: 198, 74
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+lan_2
+  rotate: false
+  xy: 100, 14
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+lan_3
+  rotate: false
+  xy: 256, 38
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+lv_1
+  rotate: false
+  xy: 2, 8
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+lv_2
+  rotate: false
+  xy: 160, 14
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+lv_3
+  rotate: false
+  xy: 256, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

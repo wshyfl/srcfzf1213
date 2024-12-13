@@ -1,0 +1,41 @@
+
+cf_kaorou.png
+size: 1117,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DuiZhan_DJ_NiuPai01
+  rotate: false
+  xy: 498, 3
+  size: 246, 185
+  orig: 246, 185
+  offset: 0, 0
+  index: -1
+DuiZhan_DJ_NiuPai02
+  rotate: false
+  xy: 746, 3
+  size: 246, 185
+  orig: 246, 185
+  offset: 0, 0
+  index: -1
+DuiZhan_DJ_NiuPai03
+  rotate: false
+  xy: 2, 2
+  size: 246, 186
+  orig: 246, 186
+  offset: 0, 0
+  index: -1
+DuiZhan_DJ_NiuPai04
+  rotate: false
+  xy: 250, 2
+  size: 246, 186
+  orig: 246, 186
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 994, 63
+  size: 121, 125
+  orig: 123, 127
+  offset: 2, 0
+  index: -1

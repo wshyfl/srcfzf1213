@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a9ab9afd-0fc3-4a19-b094-897766ae6406",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 65,
+  "height": 78,
+  "platformSettings": {},
+  "subMetas": {
+    "fightgame_bifen_di1": {
+      "ver": "1.0.4",
+      "uuid": "de3a1e03-48c9-4091-9812-86fff85e616a",
+      "rawTextureUuid": "a9ab9afd-0fc3-4a19-b094-897766ae6406",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 62,
+      "height": 78,
+      "rawWidth": 65,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

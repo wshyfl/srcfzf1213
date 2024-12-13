@@ -1,0 +1,62 @@
+
+cf_xianjing_muban.png
+size: 340,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 242, 79
+  size: 56, 49
+  orig: 58, 52
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 293, 9
+  size: 43, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1
+b3
+  rotate: false
+  xy: 242, 36
+  size: 49, 41
+  orig: 51, 43
+  offset: 1, 1
+  index: -1
+b4
+  rotate: true
+  xy: 300, 73
+  size: 55, 38
+  orig: 64, 53
+  offset: 1, 1
+  index: -1
+b5
+  rotate: false
+  xy: 242, 2
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+b6
+  rotate: false
+  xy: 293, 38
+  size: 45, 33
+  orig: 47, 35
+  offset: 1, 1
+  index: -1
+bj
+  rotate: true
+  xy: 168, 7
+  size: 121, 72
+  orig: 123, 74
+  offset: 1, 1
+  index: -1
+qiecaixx
+  rotate: false
+  xy: 2, 9
+  size: 164, 119
+  orig: 164, 119
+  offset: 0, 0
+  index: -1
